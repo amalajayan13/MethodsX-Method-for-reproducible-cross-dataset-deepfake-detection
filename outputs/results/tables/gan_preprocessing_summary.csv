@@ -1,0 +1,7 @@
+dataset,domain,split,label,source_type,saved_count,images_available,failed_images
+GAN,ffhq_real,train,real,image,5696,5696,0
+GAN,stylegan_fake,train,fake,image,5696,5696,0
+GAN,ffhq_real,val,real,image,712,712,0
+GAN,stylegan_fake,val,fake,image,712,712,0
+GAN,ffhq_real,test,real,image,712,712,0
+GAN,stylegan_fake,test,fake,image,712,712,0

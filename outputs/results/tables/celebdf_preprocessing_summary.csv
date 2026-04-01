@@ -1,0 +1,7 @@
+dataset,domain,split,label,source_type,saved_count,videos_available,videos_with_any_saved_face,frames_examined,faces_detected,failed_videos
+Celeb-DF,celebdf_real,train,real,video,5684,712,712,5686,5684,0
+Celeb-DF,celebdf_fake,train,fake,video,5693,712,712,5693,5693,0
+Celeb-DF,celebdf_real,val,real,video,712,89,89,712,712,0
+Celeb-DF,celebdf_fake,val,fake,video,712,89,89,712,712,0
+Celeb-DF,celebdf_real,test,real,video,711,89,89,712,711,0
+Celeb-DF,celebdf_fake,test,fake,video,712,89,89,712,712,0
