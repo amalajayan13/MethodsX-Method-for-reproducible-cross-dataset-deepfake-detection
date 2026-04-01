@@ -15,3 +15,6 @@ http://kaldir.vc.in.tum.de/faceforensics_download_v4.py
 ## Google Drive
 Contains all outputs, v1.1 code, raw-datasets
 https://drive.google.com/drive/folders/16tmvQ4uGgvTZbW0S53cavDQYsrGXnZwK?usp=drive_link
+
+## Zenodo
+Amal Ajayan. (2026). amalajayan13/MethodsX-Method-for-reproducible-cross-dataset-deepfake-detection: v1.1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.19372916
