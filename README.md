@@ -9,7 +9,7 @@ The `outputs/` directory contains the results generated from executing the noteb
   
 ## Dataset
 https://www.kaggle.com/datasets/greatgamedota/ffhq-face-data-set?resource=download, 
-https://www.kaggle.com/datasets/dullaz/1m-ai-generated-faces-128x128, and 
+https://www.kaggle.com/datasets/dullaz/1m-ai-generated-faces-128x128, https://www.kaggle.com/datasets/reubensuju/celeb-df-v2, and 
 http://kaldir.vc.in.tum.de/faceforensics_download_v4.py
 
 ## Google Drive
